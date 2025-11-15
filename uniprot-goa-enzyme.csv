@@ -1,0 +1,136 @@
+Entry	Entry name	Status	Gene names	Organism	Length
+O00762	UBE2C_HUMAN	reviewed	UBE2C UBCH10	Homo sapiens (Human)	179
+O14508	SOCS2_HUMAN	reviewed	SOCS2 CIS2 SSI2 STATI2	Homo sapiens (Human)	198
+O14933	UB2L6_HUMAN	reviewed	UBE2L6 UBCH8	Homo sapiens (Human)	153
+O15145	ARPC3_HUMAN	reviewed	ARPC3 ARC21	Homo sapiens (Human)	178
+O15392	BIRC5_HUMAN	reviewed	BIRC5 API4 IAP4	Homo sapiens (Human)	142
+O15511	ARPC5_HUMAN	reviewed	ARPC5 ARC16	Homo sapiens (Human)	151
+O15514	RPB4_HUMAN	reviewed	POLR2D	Homo sapiens (Human)	142
+O15539	RGS5_HUMAN	reviewed	RGS5	Homo sapiens (Human)	181
+O43169	CYB5B_HUMAN	reviewed	CYB5B CYB5M OMB5	Homo sapiens (Human)	150
+O43521	B2L11_HUMAN	reviewed	BCL2L11 BIM	Homo sapiens (Human)	198
+O43924	PDE6D_HUMAN	reviewed	PDE6D PDED	Homo sapiens (Human)	150
+O60234	GMFG_HUMAN	reviewed	GMFG	Homo sapiens (Human)	142
+O75348	VATG1_HUMAN	reviewed	ATP6V1G1 ATP6G ATP6G1 ATP6J	Homo sapiens (Human)	118
+O95166	GBRAP_HUMAN	reviewed	GABARAP FLC3B HT004	Homo sapiens (Human)	117
+O95971	BY55_HUMAN	reviewed	CD160 BY55	Homo sapiens (Human)	181
+P00167	CYB5_HUMAN	reviewed	CYB5A CYB5	Homo sapiens (Human)	134
+P00441	SODC_HUMAN	reviewed	SOD1	Homo sapiens (Human)	154
+P01034	CYTC_HUMAN	reviewed	CST3	Homo sapiens (Human)	146
+P01112	RASH_HUMAN	reviewed	HRAS HRAS1	Homo sapiens (Human)	189
+P01135	TGFA_HUMAN	reviewed	TGFA	Homo sapiens (Human)	160
+P01160	ANF_HUMAN	reviewed	NPPA ANP PND	Homo sapiens (Human)	151
+P01225	FSHB_HUMAN	reviewed	FSHB	Homo sapiens (Human)	129
+P01308	INS_HUMAN	reviewed	INS	Homo sapiens (Human)	110
+P01588	EPO_HUMAN	reviewed	EPO	Homo sapiens (Human)	193
+P02655	APOC2_HUMAN	reviewed	APOC2 APC2	Homo sapiens (Human)	101
+P05019	IGF1_HUMAN	reviewed	IGF1 IBP1	Homo sapiens (Human)	195
+P05161	ISG15_HUMAN	reviewed	ISG15 G1P2 UCRP	Homo sapiens (Human)	165
+P05230	FGF1_HUMAN	reviewed	FGF1 FGFA	Homo sapiens (Human)	155
+P05386	RLA1_HUMAN	reviewed	RPLP1 RRP1	Homo sapiens (Human)	114
+P07737	PROF1_HUMAN	reviewed	PFN1	Homo sapiens (Human)	140
+P08134	RHOC_HUMAN	reviewed	RHOC ARH9 ARHC	Homo sapiens (Human)	193
+P0C0S8	H2A1_HUMAN	reviewed	"H2AC11 H2AFP HIST1H2AG; H2AC13 H2AFC HIST1H2AI; H2AC15 H2AFD HIST1H2AK; H2AC16 H2AFI HIST1H2AL; H2AC17 H2AFN HIST1H2AM"	Homo sapiens (Human)	130
+P0DP23	CALM1_HUMAN	reviewed	CALM1 CALM CAM CAM1	Homo sapiens (Human)	149
+P12074	CX6A1_HUMAN	reviewed	COX6A1 COX6AL	Homo sapiens (Human)	109
+P13498	CY24A_HUMAN	reviewed	CYBA	Homo sapiens (Human)	195
+P15153	RAC2_HUMAN	reviewed	RAC2	Homo sapiens (Human)	192
+P15531	NDKA_HUMAN	reviewed	NME1 NDPKA NM23	Homo sapiens (Human)	152
+P17096	HMGA1_HUMAN	reviewed	HMGA1 HMGIY	Homo sapiens (Human)	107
+P17900	SAP3_HUMAN	reviewed	GM2A	Homo sapiens (Human)	193
+P18085	ARF4_HUMAN	reviewed	ARF4 ARF2	Homo sapiens (Human)	180
+P20292	AL5AP_HUMAN	reviewed	ALOX5AP FLAP	Homo sapiens (Human)	161
+P22392	NDKB_HUMAN	reviewed	NME2 NM23B	Homo sapiens (Human)	152
+P24522	GA45A_HUMAN	reviewed	GADD45A DDIT1 GADD45	Homo sapiens (Human)	165
+P27449	VATL_HUMAN	reviewed	ATP6V0C ATP6C ATP6L ATPL	Homo sapiens (Human)	155
+P30086	PEBP1_HUMAN	reviewed	PEBP1 PBP PEBP	Homo sapiens (Human)	187
+P30626	SORCN_HUMAN	reviewed	SRI	Homo sapiens (Human)	198
+P31025	LCN1_HUMAN	reviewed	LCN1 VEGP	Homo sapiens (Human)	176
+P35070	BTC_HUMAN	reviewed	BTC	Homo sapiens (Human)	178
+P36404	ARL2_HUMAN	reviewed	ARL2	Homo sapiens (Human)	184
+P36954	RPB9_HUMAN	reviewed	POLR2I	Homo sapiens (Human)	125
+P37840	SYUA_HUMAN	reviewed	SNCA NACP PARK1	Homo sapiens (Human)	140
+P38936	CDN1A_HUMAN	reviewed	CDKN1A CAP20 CDKN1 CIP1 MDA6 PIC1 SDI1 WAF1	Homo sapiens (Human)	164
+P39019	RS19_HUMAN	reviewed	RPS19	Homo sapiens (Human)	145
+P40616	ARL1_HUMAN	reviewed	ARL1	Homo sapiens (Human)	181
+P42771	CDN2A_HUMAN	reviewed	CDKN2A CDKN2 MTS1	Homo sapiens (Human)	156
+P42773	CDN2C_HUMAN	reviewed	CDKN2C CDKN6	Homo sapiens (Human)	168
+P45973	CBX5_HUMAN	reviewed	CBX5 HP1A	Homo sapiens (Human)	191
+P46527	CDN1B_HUMAN	reviewed	CDKN1B KIP1	Homo sapiens (Human)	198
+P49459	UBE2A_HUMAN	reviewed	UBE2A RAD6A	Homo sapiens (Human)	152
+P51452	DUS3_HUMAN	reviewed	DUSP3 VHR	Homo sapiens (Human)	185
+P51460	INSL3_HUMAN	reviewed	INSL3 RLF RLNL	Homo sapiens (Human)	131
+P51668	UB2D1_HUMAN	reviewed	UBE2D1 SFT UBC5A UBCH5 UBCH5A	Homo sapiens (Human)	147
+P51965	UB2E1_HUMAN	reviewed	UBE2E1 UBCH6	Homo sapiens (Human)	193
+P52298	NCBP2_HUMAN	reviewed	NCBP2 CBP20 PIG55	Homo sapiens (Human)	156
+P52434	RPAB3_HUMAN	reviewed	POLR2H	Homo sapiens (Human)	150
+P52435	RPB11_HUMAN	reviewed	POLR2J POLR2J1	Homo sapiens (Human)	117
+P53680	AP2S1_HUMAN	reviewed	AP2S1 AP17 CLAPS2	Homo sapiens (Human)	142
+P55273	CDN2D_HUMAN	reviewed	CDKN2D	Homo sapiens (Human)	166
+P55769	NH2L1_HUMAN	reviewed	SNU13 NHP2L1	Homo sapiens (Human)	128
+P55854	SUMO3_HUMAN	reviewed	SUMO3 SMT3A SMT3H1	Homo sapiens (Human)	103
+P55957	BID_HUMAN	reviewed	BID	Homo sapiens (Human)	195
+P57771	RGS8_HUMAN	reviewed	RGS8	Homo sapiens (Human)	180
+P59998	ARPC4_HUMAN	reviewed	ARPC4 ARC20	Homo sapiens (Human)	168
+P60520	GBRL2_HUMAN	reviewed	GABARAPL2 FLC3A GEF2	Homo sapiens (Human)	117
+P60568	IL2_HUMAN	reviewed	IL2	Homo sapiens (Human)	153
+P60604	UB2G2_HUMAN	reviewed	UBE2G2 UBC7	Homo sapiens (Human)	165
+P60763	RAC3_HUMAN	reviewed	RAC3	Homo sapiens (Human)	192
+P60953	CDC42_HUMAN	reviewed	CDC42	Homo sapiens (Human)	191
+P61077	UB2D3_HUMAN	reviewed	UBE2D3 UBC5C UBCH5C	Homo sapiens (Human)	147
+P61086	UBE2K_HUMAN	reviewed	UBE2K HIP2 LIG	Homo sapiens (Human)	200
+P61088	UBE2N_HUMAN	reviewed	UBE2N BLU	Homo sapiens (Human)	152
+P61218	RPAB2_HUMAN	reviewed	POLR2F POLRF	Homo sapiens (Human)	127
+P61586	RHOA_HUMAN	reviewed	RHOA ARH12 ARHA RHO12	Homo sapiens (Human)	193
+P61803	DAD1_HUMAN	reviewed	DAD1	Homo sapiens (Human)	113
+P61916	NPC2_HUMAN	reviewed	NPC2 HE1	Homo sapiens (Human)	151
+P62081	RS7_HUMAN	reviewed	RPS7	Homo sapiens (Human)	194
+P62253	UB2G1_HUMAN	reviewed	UBE2G1 UBE2G	Homo sapiens (Human)	170
+P62256	UBE2H_HUMAN	reviewed	UBE2H	Homo sapiens (Human)	183
+P62487	RPB7_HUMAN	reviewed	POLR2G RPB7	Homo sapiens (Human)	172
+P62829	RL23_HUMAN	reviewed	RPL23	Homo sapiens (Human)	140
+P62834	RAP1A_HUMAN	reviewed	RAP1A KREV1	Homo sapiens (Human)	184
+P62837	UB2D2_HUMAN	reviewed	UBE2D2 PUBC1 UBC4 UBC5B UBCH4 UBCH5B	Homo sapiens (Human)	147
+P62913	RL11_HUMAN	reviewed	RPL11	Homo sapiens (Human)	178
+P62942	FKB1A_HUMAN	reviewed	FKBP1A FKBP1 FKBP12	Homo sapiens (Human)	108
+P62979	RS27A_HUMAN	reviewed	RPS27A UBA80 UBCEP1	Homo sapiens (Human)	156
+P62987	RL40_HUMAN	reviewed	UBA52 UBCEP2	Homo sapiens (Human)	128
+P63000	RAC1_HUMAN	reviewed	RAC1 TC25 MIG5	Homo sapiens (Human)	192
+P63098	CANB1_HUMAN	reviewed	PPP3R1 CNA2 CNB	Homo sapiens (Human)	170
+P63146	UBE2B_HUMAN	reviewed	UBE2B RAD6B	Homo sapiens (Human)	152
+P63165	SUMO1_HUMAN	reviewed	SUMO1 SMT3C SMT3H3 UBL1 OK/SW-cl.43	Homo sapiens (Human)	101
+P63272	SPT4H_HUMAN	reviewed	SUPT4H1 SPT4H SUPT4H	Homo sapiens (Human)	117
+P63279	UBC9_HUMAN	reviewed	UBE2I UBC9 UBCE9	Homo sapiens (Human)	158
+P68036	UB2L3_HUMAN	reviewed	UBE2L3 UBCE7 UBCH7	Homo sapiens (Human)	154
+P78560	CRADD_HUMAN	reviewed	CRADD RAIDD	Homo sapiens (Human)	199
+P83916	CBX1_HUMAN	reviewed	CBX1 CBX	Homo sapiens (Human)	185
+P84077	ARF1_HUMAN	reviewed	ARF1	Homo sapiens (Human)	181
+P84095	RHOG_HUMAN	reviewed	RHOG ARHG	Homo sapiens (Human)	191
+P84103	SRSF3_HUMAN	reviewed	SRSF3 SFRS3 SRP20	Homo sapiens (Human)	164
+Q10589	BST2_HUMAN	reviewed	BST2	Homo sapiens (Human)	180
+Q13185	CBX3_HUMAN	reviewed	CBX3	Homo sapiens (Human)	183
+Q13404	UB2V1_HUMAN	reviewed	UBE2V1 CROC1 UBE2V UEV1 P/OKcl.19	Homo sapiens (Human)	147
+Q13526	PIN1_HUMAN	reviewed	PIN1	Homo sapiens (Human)	163
+Q14019	COTL1_HUMAN	reviewed	COTL1 CLP	Homo sapiens (Human)	142
+Q15185	TEBP_HUMAN	reviewed	PTGES3 P23 TEBP	Homo sapiens (Human)	160
+Q15370	ELOB_HUMAN	reviewed	ELOB TCEB2	Homo sapiens (Human)	118
+Q15382	RHEB_HUMAN	reviewed	RHEB RHEB2	Homo sapiens (Human)	184
+Q15819	UB2V2_HUMAN	reviewed	UBE2V2 MMS2 UEV2	Homo sapiens (Human)	145
+Q16864	VATF_HUMAN	reviewed	ATP6V1F ATP6S14 VATF	Homo sapiens (Human)	119
+Q16873	LTC4S_HUMAN	reviewed	LTC4S	Homo sapiens (Human)	150
+Q6IAA8	LTOR1_HUMAN	reviewed	LAMTOR1 C11orf59 PDRO PP7157	Homo sapiens (Human)	161
+Q6UW88	EPGN_HUMAN	reviewed	EPGN UNQ3072/PRO9904	Homo sapiens (Human)	154
+Q86WV5	TEN1L_HUMAN	reviewed	TEN1 C17orf106	Homo sapiens (Human)	123
+Q92934	BAD_HUMAN	reviewed	BAD BBC6 BCL2L8	Homo sapiens (Human)	168
+Q969M7	UBE2F_HUMAN	reviewed	UBE2F NCE2	Homo sapiens (Human)	185
+Q96B02	UBE2W_HUMAN	reviewed	UBE2W UBC16	Homo sapiens (Human)	151
+Q99497	PARK7_HUMAN	reviewed	PARK7	Homo sapiens (Human)	189
+Q99653	CHP1_HUMAN	reviewed	CHP1 CHP	Homo sapiens (Human)	195
+Q9BQE4	SELS_HUMAN	reviewed	SELENOS SELS VIMP AD-015 SBBI8	Homo sapiens (Human)	189
+Q9GZQ8	MLP3B_HUMAN	reviewed	MAP1LC3B MAP1ALC3	Homo sapiens (Human)	125
+Q9H0R8	GBRL1_HUMAN	reviewed	GABARAPL1 GEC1	Homo sapiens (Human)	117
+Q9NPD8	UBE2T_HUMAN	reviewed	UBE2T HSPC150 PIG50	Homo sapiens (Human)	197
+Q9NZ42	PEN2_HUMAN	reviewed	PSENEN PEN2 MDS033	Homo sapiens (Human)	101
+Q9UBU3	GHRL_HUMAN	reviewed	GHRL MTLRP UNQ524/PRO1066	Homo sapiens (Human)	117
+Q9ULZ3	ASC_HUMAN	reviewed	PYCARD ASC CARD5 TMS1	Homo sapiens (Human)	195
+Q9Y2Y0	AR2BP_HUMAN	reviewed	ARL2BP BART BART1	Homo sapiens (Human)	163
